@@ -1,4 +1,10 @@
 Hello world
 this is a text file for working in git hub
 1234567890qwerty
+<<<<<<< HEAD
 111111111111
+=======
+111111111111
+222222222222
+
+>>>>>>> 4b0628b8471d48778f76ea871b2d5beb6acc8f38
